@@ -93,7 +93,7 @@ async function weatherFn(cName) {
 }
 
 function weatherShowFn(data) {
-  	$('#city-name').text(data.name);
+  	$('#city-name').html(`${data.sys.country},${data.name}`);
 	  $('#date').text(moment().
 		format('ddd-DD-MM'));
 	  $('#temperature').
