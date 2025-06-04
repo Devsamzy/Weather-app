@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+>
+  <url>
+    <loc>https://weather-app-devdrogba.vercel.app/</loc>
+    <lastmod>2025-06-04</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://weather-app-devdrogba.vercel.app/?q=Lagos</loc>
+    <lastmod>2025-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://weather-app-devdrogba.vercel.app/?q=Abuja</loc>
+    <lastmod>2025-06-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://weather-app-devdrogba.vercel.app/?q=London</loc>
+    <lastmod>2025-06-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://weather-app-devdrogba.vercel.app/?q=New%20York</loc>
+    <lastmod>2025-06-04</lastmod>
+    <priority>0.70</priority>
+  </url>
+</urlset>
